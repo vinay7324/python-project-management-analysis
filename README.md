@@ -25,6 +25,9 @@ python-project-management-analysis
 
 ### Project Dataset
 ![Project Data](images/analysis_results.png)
+images/
+ ├── dataframe_preview.png
+ └── analysis_results.png
 ## Analysis Output
 
 The analysis calculates the total project cost handled by each employee.
