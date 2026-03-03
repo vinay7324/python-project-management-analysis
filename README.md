@@ -1,17 +1,3 @@
-# Python Project Management Analysis
-
-This project analyzes employee and project datasets using **Python, Pandas, and NumPy**.  
-The goal is to clean, transform, and merge datasets to evaluate employee project performance and calculate the total cost handled by each employee.
-
-## Key Tasks Performed
-
-- Data cleaning and handling missing values
-- Splitting and transforming columns
-- Merging multiple datasets
-- Applying business rules for promotions and demotions
-- Calculating employee bonuses
-- Aggregating total project cost per employeepython-project-management-analysis
-│
 ├── data
 │   ├── employee_data.csv
 │   ├── project_data.csv
@@ -31,6 +17,20 @@ The goal is to clean, transform, and merge datasets to evaluate employee project
 ├── requirements.txt
 └── .gitignore
 ## Dataset Preview
+
+# Python Project Management Analysis
+
+This project analyzes employee and project datasets using **Python, Pandas, and NumPy**.  
+The goal is to clean, transform, and merge datasets to evaluate employee project performance and calculate the total cost handled by each employee.
+
+## Key Tasks Performed
+
+- Data cleaning and handling missing values
+- Splitting and transforming columns
+- Merging multiple datasets
+- Applying business rules for promotions and demotions
+- Calculating employee bonuses
+- Aggregating total project cost per employeepython-project-management-analysis
 
 ### Employee Dataset
 ![Employee Data](images/dataframe_preview.png)
