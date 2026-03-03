@@ -18,3 +18,10 @@ python-project-management-analysis
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+## Dataset Preview
+
+### Employee Dataset
+![Employee Data](images/dataframe_preview.png)
+
+### Project Dataset
+![Project Data](images/analysis_results.png)
