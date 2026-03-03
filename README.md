@@ -55,3 +55,9 @@ The analysis calculates the total project cost handled by each employee.
 6. Calculated bonus for completed projects
 7. Adjusted designation levels based on project status
 8. Calculated total project cost for each employee
+
+## Author
+
+Vinay Giri  
+Aspiring Data Analyst  
+Python | SQL | Power BI | Data Visualization
