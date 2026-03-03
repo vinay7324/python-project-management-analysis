@@ -1,3 +1,5 @@
+python-project-management-analysis
+│
 ├── data
 │   ├── employee_data.csv
 │   ├── project_data.csv
@@ -8,17 +10,6 @@
 │
 ├── output
 │   └── total_project_cost.csv
-│
-├── images
-│   ├── dataframe_preview.png
-│   └── analysis_results.png
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-## Dataset Preview
-
-# Python Project Management Analysis
 
 This project analyzes employee and project datasets using **Python, Pandas, and NumPy**.  
 The goal is to clean, transform, and merge datasets to evaluate employee project performance and calculate the total cost handled by each employee.
